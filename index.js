@@ -17,7 +17,7 @@ async function askQuestion(question) {
     - To deploy a Node.js app:
       1. Install dependencies
       2. Build project
-      3. Run server
+      3. Run serverKill. Hey, Cortana. 
     `;
 
     const response = await client.messages.create({
